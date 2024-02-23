@@ -1,4 +1,4 @@
-console.log("This is conflige system")
+console.log("No This code / Space is mine")
 console.log("every thing is bad!!")
 console.log("every thing is something!!")
 console.log("every thing is slfksl!!")
