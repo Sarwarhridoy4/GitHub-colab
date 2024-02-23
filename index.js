@@ -1,5 +1,7 @@
 console.log("This is conflige system")
 console.log("every thing is hefo the super star !!")
+console.log("No This code / Space is mine")
+console.log("every thing is bad!!")
 console.log("every thing is something!!")
 console.log("every thing is slfksl!!")
 console.log("every thing is sfsfsfsfsfsf!!")
